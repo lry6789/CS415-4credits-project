@@ -3192,3 +3192,224 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.11.20-23.09.01:664][ 75]LogFileHelpers: Saving map 'Game' took 0.074
 [2022.11.20-23.09.01:679][ 75]AssetCheck: New page: Asset Save: Game
 [2022.11.20-23.09.01:679][ 75]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/Game.Game
+[2022.11.20-23.19.17:302][156]LogEditorViewport: Clicking on Actor (LMB): Emitter (Particle_Steam_Blue)
+[2022.11.20-23.19.35:704][259]LogEditorViewport: Clicking on Actor (LMB): Emitter (Particle_Steam_Blue)
+[2022.11.20-23.19.48:748][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2022.11.20-23.19.48:751][ 36]Cmd: MAP LOAD FILE="../../../../../../../../UIUC/2022F/415/VR_Project/Content/VirtualRealityBP/Maps/Game.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.20-23.19.48:768][ 36]LightingResults: New page: Lighting Build
+[2022.11.20-23.19.48:768][ 36]LoadErrors: New page: Loading map: Game.umap
+[2022.11.20-23.19.48:770][ 36]LogWorld: UWorld::CleanupWorld for Start, bSessionEnded=true, bCleanupResources=true
+[2022.11.20-23.19.48:770][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.20-23.19.48:770][ 36]MapCheck: New page: Map Check
+[2022.11.20-23.19.48:770][ 36]LightingResults: New page: Lighting Build
+[2022.11.20-23.19.48:808][ 36]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.20-23.19.48:814][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2022.11.20-23.19.48:814][ 36]LogAudio: Display: Audio Device (ID: 1) registered with world 'Game'.
+[2022.11.20-23.19.49:086][ 36]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.20-23.19.49:086][ 36]LogAIModule: Creating AISystem for world Game
+[2022.11.20-23.19.49:131][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2022.11.20-23.19.49:142][ 36]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.20-23.19.49:142][ 36]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.064ms to complete.
+[2022.11.20-23.19.49:142][ 36]LogFileHelpers: Loading map 'Game' took 0.391
+[2022.11.20-23.19.49:142][ 36]LogSlate: Window 'Open Level' being destroyed
+[2022.11.20-23.19.56:030][446]LogEditorViewport: Clicking on Actor (LMB): BP_BoxLaunch_C (BP_BoxLaunch)
+[2022.11.20-23.20.17:217][716]LogEditorViewport: Clicking on Actor (LMB): PlanarReflection (PlanarReflection)
+[2022.11.20-23.20.17:784][749]LogEditorViewport: Clicking on Actor (LMB): PlanarReflection (PlanarReflection)
+[2022.11.20-23.20.19:303][839]LogEditorViewport: Clicking on Actor (LMB): PlanarReflection (PlanarReflection)
+[2022.11.20-23.20.19:778][867]LogEditorViewport: Clicking on Actor (LMB): PlanarReflection (PlanarReflection)
+[2022.11.20-23.20.20:091][885]LogEditorViewport: Clicking on Actor (LMB): PlanarReflection (PlanarReflection)
+[2022.11.20-23.20.28:120][366]LogEditorViewport: Clicking on Actor (LMB): BP_BoxLaunch_C (BP_BoxLaunch)
+[2022.11.20-23.20.43:440][284]LogEditorViewport: Clicking on Actor (LMB): BP_Scenes_C (BP_Scenes)
+[2022.11.20-23.21.32:456][222]LogEditorViewport: Clicking on Actor (context menu): BP_Scenes_C (BP_Scenes)
+[2022.11.20-23.21.33:282][270]LogEditorViewport: Clicking on Actor (LMB): BP_Scenes_C (BP_Scenes)
+[2022.11.20-23.22.06:517][263]LogEditorViewport: Clicking on Actor (LMB): BP_Scenes_C (BP_Scenes)
+[2022.11.20-23.22.41:903][386]LogEditorViewport: Clicking on Actor (LMB): BP_UI_C (BP_UI)
+[2022.11.20-23.22.42:759][437]LogEditorViewport: Clicking on Actor (LMB): BP_UI_C (BP_UI)
+[2022.11.20-23.22.43:301][469]LogEditorViewport: Clicking Background
+[2022.11.20-23.22.48:285][768]LogEditorViewport: Clicking on Actor (LMB): BP_PH_C (BP_PH)
+[2022.11.20-23.22.49:160][820]LogEditorViewport: Clicking on Actor (LMB): BP_PH_C (BP_PH)
+[2022.11.20-23.23.25:636][697]LogSlate: Window 'Open Level' being destroyed
+[2022.11.20-23.23.30:929][  7]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.11.20-23.23.30:936][  7]Cmd: MAP LOAD FILE="../../../../../../../../UIUC/2022F/415/VR_Project/Content/VirtualRealityBP/Maps/Start.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.20-23.23.30:953][  7]LightingResults: New page: Lighting Build
+[2022.11.20-23.23.30:953][  7]LoadErrors: New page: Loading map: Start.umap
+[2022.11.20-23.23.30:956][  7]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2022.11.20-23.23.30:956][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.20-23.23.30:956][  7]MapCheck: New page: Map Check
+[2022.11.20-23.23.30:956][  7]LightingResults: New page: Lighting Build
+[2022.11.20-23.23.30:995][  7]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.20-23.23.31:002][  7]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2022.11.20-23.23.31:010][  7]LogBlueprint: Warning: [AssetLog] D:\UIUC\2022F\415\VR_Project\Content\VirtualRealityBP\Maps\Start.umap: [Compiler] Input pin  Ji Guang  specifying non-default value no longer exists on node  Vis Event . Please refresh node or reset pin to default value to remove pin.
+[2022.11.20-23.23.31:010][  7]LogBlueprint: Warning: [AssetLog] D:\UIUC\2022F\415\VR_Project\Content\VirtualRealityBP\Maps\Start.umap: [Compiler] Input pin  Ji Guang  specifying non-default value no longer exists on node  Vis Event . Please refresh node or reset pin to default value to remove pin.
+[2022.11.20-23.23.31:018][  7]LogAudio: Display: Audio Device (ID: 1) registered with world 'Start'.
+[2022.11.20-23.23.31:019][  7]LogAIModule: Creating AISystem for world Start
+[2022.11.20-23.23.31:053][  7]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.20-23.23.31:095][  7]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2022.11.20-23.23.31:108][  7]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.20-23.23.31:108][  7]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.12ms to complete.
+[2022.11.20-23.23.31:108][  7]LogFileHelpers: Loading map 'Start' took 0.172
+[2022.11.20-23.23.31:108][  7]LogSlate: Window 'Open Level' being destroyed
+[2022.11.20-23.25.25:198][337]LogTemp: Repeating last play command: VR Preview
+[2022.11.20-23.25.25:205][337]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.20-23.25.25:205][337]LogHMD: Initializing OVRPlugin session
+[2022.11.20-23.25.25:441][337]LogHMD: Allocating Oculus 2752 x 1376 rendertarget swapchain
+[2022.11.20-23.25.25:441][337]PIE: New page: PIE session: Start (2022年11月20日 上午11:25:25)
+[2022.11.20-23.25.25:442][337]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_Start
+[2022.11.20-23.25.25:446][337]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003682s)
+[2022.11.20-23.25.25:447][337]LogAIModule: Creating AISystem for world Start
+[2022.11.20-23.25.25:447][337]LogPlayLevel: PIE: World Init took: (0.000990s)
+[2022.11.20-23.25.25:447][337]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/Start.Start to /Game/VirtualRealityBP/Maps/UEDPIE_0_Start.Start (0.004786s)
+[2022.11.20-23.25.25:492][337]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2022.11.20-23.25.25:493][337]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2022.11.20-23.25.25:493][337]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.20-23.25.25:493][337]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.20-23.25.25:493][337]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.20-23.25.25:493][337]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.20-23.25.25:493][337]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.20-23.25.25:494][337]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.20-23.25.25:494][337]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.20-23.25.25:494][337]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.20-23.25.25:494][337]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.20-23.25.25:494][337]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.20-23.25.25:494][337]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.20-23.25.25:494][337]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.20-23.25.25:497][337]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.20-23.25.25:497][337]LogAudioMixer: Display: 1: FrontRight
+[2022.11.20-23.25.25:499][337]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.20-23.25.25:499][337]LogAudioMixer: Display: 1: FrontRight
+[2022.11.20-23.25.25:507][337]LogAudioMixer: Display: Using Audio Device 耳机 (Oculus Virtual Audio Device)
+[2022.11.20-23.25.25:508][337]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.20-23.25.25:508][337]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.20-23.25.25:508][337]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.20-23.25.25:508][337]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.20-23.25.25:508][337]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.20-23.25.25:508][337]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.20-23.25.25:510][337]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.20-23.25.25:510][337]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.20-23.25.25:510][337]LogInit: FAudioDevice initialized.
+[2022.11.20-23.25.25:510][337]LogAudio: Display: Audio Device (ID: 30) registered with world 'Start'.
+[2022.11.20-23.25.25:522][337]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.20-23.25.25:536][337]LogHMD: Allocating Oculus 3136 x 1568 rendertarget swapchain
+[2022.11.20-23.25.25:566][337]LogLoad: Game class is 'GameModeBase'
+[2022.11.20-23.25.25:568][337]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_Start.Start up for play (max tick rate 0) at 2022.11.20-17.25.25
+[2022.11.20-23.25.25:576][337]LogWorld: Bringing up level for play took: 0.009768
+[2022.11.20-23.25.25:576][337]LogOnline: OSS: Creating online subsystem instance for: :Context_55
+[2022.11.20-23.25.25:579][337]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/VirtualRealityBP/Blueprints/BP_UI.BP_UI_C:ExecuteUbergraph_BP_UI'!
+[2022.11.20-23.25.25:588][337]PIE: Server logged in
+[2022.11.20-23.25.25:590][337]PIE: Play in editor total start time 0.387 seconds.
+[2022.11.20-23.25.25:591][337]LogEngine: Changing dynamic resolution state.
+[2022.11.20-23.25.25:601][337]LogHMD: Allocating Oculus 3136 x 1568 depth rendertarget swapchain
+[2022.11.20-23.25.51:063][259]LogNet: Browse: /Game/VirtualRealityBP/Maps/Game
+[2022.11.20-23.25.51:093][259]LogHMD: FSplash::DoShow
+[2022.11.20-23.25.51:093][259]LogLoad: LoadMap: /Game/VirtualRealityBP/Maps/Game
+[2022.11.20-23.25.51:093][259]LogWorld: BeginTearingDown for /Game/VirtualRealityBP/Maps/UEDPIE_0_Start
+[2022.11.20-23.25.51:093][259]LogWorld: UWorld::CleanupWorld for Start, bSessionEnded=true, bCleanupResources=true
+[2022.11.20-23.25.51:093][259]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.20-23.25.51:176][259]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.20-23.25.51:180][259]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2022.11.20-23.25.51:195][259]LogAudio: Display: Audio Device (ID: 30) registered with world 'Game'.
+[2022.11.20-23.25.51:196][259]LogAIModule: Creating AISystem for world Game
+[2022.11.20-23.25.51:196][259]LogLoad: Game class is 'GameModeBase'
+[2022.11.20-23.25.51:202][259]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_Game.Game up for play (max tick rate 0) at 2022.11.20-17.25.51
+[2022.11.20-23.25.51:211][259]LogWorld: Bringing up level for play took: 0.013846
+[2022.11.20-23.25.51:211][259]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.11.20-23.25.51:215][259]LogHMD: FSplash::OnPostLoadMap Hide Auto Splash
+[2022.11.20-23.25.51:215][259]LogLoad: Took 0.122063 seconds to LoadMap(/Game/VirtualRealityBP/Maps/Game)
+[2022.11.20-23.25.51:218][260]LogHMD: FSplash::DoHide
+[2022.11.20-23.28.09:048][177]LogScript: Warning: Script Msg: Attempted to access index 267 from array 'SpawnBoxInfo' of length 267 in '/Game/VirtualRealityBP/Blueprints/BP_BoxLaunch.BP_BoxLaunch_C'!
+[2022.11.20-23.28.39:069][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.20-23.28.39:069][811]LogWorld: BeginTearingDown for /Game/VirtualRealityBP/Maps/UEDPIE_0_Game
+[2022.11.20-23.28.39:107][811]LogSlate: Window 'VRproject Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2022.11.20-23.28.39:158][811]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2022.11.20-23.28.39:160][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.20-23.28.39:172][811]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.20-23.28.39:183][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.20-23.28.39:224][811]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.20-23.28.39:225][811]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.20-23.28.39:236][811]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2022.11.20-23.28.39:265][812]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2022.11.20-23.28.39:272][812]LogEngine: Changing dynamic resolution state.
+[2022.11.20-23.29.00:409][183]BlueprintLog: New page: Compile BP_UI
+[2022.11.20-23.29.00:574][183]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2022.11.20-23.29.02:477][388]LogTemp: Repeating last play command: VR Preview
+[2022.11.20-23.29.02:484][388]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.20-23.29.02:484][388]LogHMD: Initializing OVRPlugin session
+[2022.11.20-23.29.02:714][388]LogHMD: Allocating Oculus 2752 x 1376 rendertarget swapchain
+[2022.11.20-23.29.02:715][388]PIE: New page: PIE session: Start (2022年11月20日 上午11:29:02)
+[2022.11.20-23.29.02:715][388]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_Start
+[2022.11.20-23.29.02:718][388]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003482s)
+[2022.11.20-23.29.02:719][388]LogAIModule: Creating AISystem for world Start
+[2022.11.20-23.29.02:720][388]LogPlayLevel: PIE: World Init took: (0.001153s)
+[2022.11.20-23.29.02:720][388]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/Start.Start to /Game/VirtualRealityBP/Maps/UEDPIE_0_Start.Start (0.004760s)
+[2022.11.20-23.29.02:772][388]LogUObjectHash: Compacting FUObjectHashTables data took   7.15ms
+[2022.11.20-23.29.02:775][388]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2022.11.20-23.29.02:775][388]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.20-23.29.02:775][388]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.20-23.29.02:775][388]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.20-23.29.02:775][388]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.20-23.29.02:775][388]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.20-23.29.02:775][388]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.20-23.29.02:775][388]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.20-23.29.02:775][388]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.20-23.29.02:775][388]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.20-23.29.02:775][388]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.20-23.29.02:775][388]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.20-23.29.02:775][388]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.20-23.29.02:779][388]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.20-23.29.02:779][388]LogAudioMixer: Display: 1: FrontRight
+[2022.11.20-23.29.02:781][388]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.20-23.29.02:781][388]LogAudioMixer: Display: 1: FrontRight
+[2022.11.20-23.29.02:790][388]LogAudioMixer: Display: Using Audio Device 耳机 (Oculus Virtual Audio Device)
+[2022.11.20-23.29.02:791][388]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.20-23.29.02:791][388]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.20-23.29.02:791][388]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.20-23.29.02:791][388]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.20-23.29.02:791][388]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.20-23.29.02:791][388]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.20-23.29.02:792][388]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.20-23.29.02:792][388]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.20-23.29.02:792][388]LogInit: FAudioDevice initialized.
+[2022.11.20-23.29.02:792][388]LogAudio: Display: Audio Device (ID: 31) registered with world 'Start'.
+[2022.11.20-23.29.02:806][388]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.20-23.29.02:814][388]LogHMD: Allocating Oculus 3136 x 1568 rendertarget swapchain
+[2022.11.20-23.29.02:844][388]LogLoad: Game class is 'GameModeBase'
+[2022.11.20-23.29.02:845][388]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_Start.Start up for play (max tick rate 0) at 2022.11.20-17.29.02
+[2022.11.20-23.29.02:854][388]LogWorld: Bringing up level for play took: 0.009157
+[2022.11.20-23.29.02:854][388]LogOnline: OSS: Creating online subsystem instance for: :Context_56
+[2022.11.20-23.29.02:856][388]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/VirtualRealityBP/Blueprints/BP_UI.BP_UI_C:ExecuteUbergraph_BP_UI'!
+[2022.11.20-23.29.02:863][388]PIE: Server logged in
+[2022.11.20-23.29.02:864][388]PIE: Play in editor total start time 0.381 seconds.
+[2022.11.20-23.29.02:865][388]LogEngine: Changing dynamic resolution state.
+[2022.11.20-23.29.02:876][388]LogHMD: Allocating Oculus 3136 x 1568 depth rendertarget swapchain
+[2022.11.20-23.29.54:031][672]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.11.20-23.30.31:123][782]LogSlate: Window 'VRproject Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2022.11.20-23.30.31:142][782]LogWorld: BeginTearingDown for /Game/VirtualRealityBP/Maps/UEDPIE_0_Start
+[2022.11.20-23.30.31:178][782]LogWorld: UWorld::CleanupWorld for Start, bSessionEnded=true, bCleanupResources=true
+[2022.11.20-23.30.31:178][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.20-23.30.31:188][782]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.20-23.30.31:194][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.20-23.30.31:235][782]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.20-23.30.31:235][782]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.20-23.30.31:236][782]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.20-23.30.31:244][782]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2022.11.20-23.30.31:286][783]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2022.11.20-23.38.13:147][244]LogUObjectHash: Compacting FUObjectHashTables data took   5.22ms
+[2022.11.20-23.38.13:174][244]LogSavePackage: Moving '../../../../../../../../UIUC/2022F/415/VR_Project/Saved/Start_Auto56D8ACCA74A013527A9FCFE85391F8F65.tmp' to '../../../../../../../../UIUC/2022F/415/VR_Project/Saved/Autosaves/Game/VirtualRealityBP/Maps/Start_Auto5.umap'
+[2022.11.20-23.38.13:176][244]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VirtualRealityBP/Maps/Start' took 0.087
+[2022.11.20-23.38.13:176][244]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.087
+[2022.11.20-23.38.13:176][244]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VirtualRealityBP/Blueprints/BP_UI] ([4] browsable assets)...
+[2022.11.20-23.38.13:191][244]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Blueprints/BP_UI.BP_UI]
+[2022.11.20-23.38.13:202][244]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Blueprints/BP_UI.BP_UI]
+[2022.11.20-23.38.13:202][244]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/BP_UI]
+[2022.11.20-23.38.13:250][244]LogSavePackage: Moving '../../../../../../../../UIUC/2022F/415/VR_Project/Saved/BP_UI_Auto5DF1A78744594F567AB9BCA9B3E4EBD8A.tmp' to '../../../../../../../../UIUC/2022F/415/VR_Project/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_UI_Auto5.uasset'
+[2022.11.20-23.38.13:252][244]LogFileHelpers: Auto-saving content packages took 0.076
+[2022.11.20-23.44.32:749][692]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.11.20-23.44.33:671][692]LogSlate: Window 'Save Content' being destroyed
+[2022.11.20-23.44.33:697][692]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_UI" FILE="../../../../../../../../UIUC/2022F/415/VR_Project/Content/VirtualRealityBP/Blueprints/BP_UI.uasset" SILENT=true
+[2022.11.20-23.44.33:726][692]LogSavePackage: Moving '../../../../../../../../UIUC/2022F/415/VR_Project/Saved/BP_UIB54C391E4A23BB462866C585469F7567.tmp' to '../../../../../../../../UIUC/2022F/415/VR_Project/Content/VirtualRealityBP/Blueprints/BP_UI.uasset'
+[2022.11.20-23.44.33:768][692]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.11.20-23.44.33:783][692]LogSavePackage: Moving '../../../../../../../../UIUC/2022F/415/VR_Project/Saved/StartAF55185F472C2C345B362EB0657229E6.tmp' to '../../../../../../../../UIUC/2022F/415/VR_Project/Content/VirtualRealityBP/Maps/Start.umap'
+[2022.11.20-23.44.33:893][692]LogFileHelpers: Saving map 'Start' took 0.165
+[2022.11.20-23.44.33:909][692]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.20-23.44.33:909][692]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/BP_UI.BP_UI
+[2022.11.20-23.44.33:909][692]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/Start.Start
